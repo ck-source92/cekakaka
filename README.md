@@ -1,4 +1,5 @@
-### Hi,👋 I’m CK
+<h1 align="center">Hi 👋,  <a href="https://id.linkedin.com/in/dwi-candra-kirana/in" target="blank">cekakaka</a> here...</h1> 
+
 - 👀 I’m interested in Game,Mobile,Web Development
 - 🌱 I’m currently Student at [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka · Internship](https://grow.google/intl/id_id/bangkit/) as Mobile Developer
 - 🙌 If you're interested to about me, please check on my profile[LinkedIn](https://www.linkedin.com/in/dwi-candra-kirana/)
